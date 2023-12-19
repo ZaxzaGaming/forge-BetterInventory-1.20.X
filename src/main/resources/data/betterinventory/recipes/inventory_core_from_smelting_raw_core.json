@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "group": "inventory_core",
+  "ingredient": {
+    "item": "betterinventory:raw_core"
+  },
+  "result": "betterinventory:inventory_core"
+}

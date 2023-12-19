@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betterinventory:block/core_block"
+    }
+  }
+}

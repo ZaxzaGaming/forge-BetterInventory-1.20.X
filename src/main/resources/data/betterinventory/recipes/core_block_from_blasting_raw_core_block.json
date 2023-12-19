@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "core_block",
+  "ingredient": {
+    "item": "betterinventory:raw_core_block"
+  },
+  "result": "betterinventory:core_block"
+}

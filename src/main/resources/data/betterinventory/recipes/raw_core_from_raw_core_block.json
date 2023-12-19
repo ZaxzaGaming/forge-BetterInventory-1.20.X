@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "betterinventory:raw_core_block"
+    }
+  ],
+  "result": {
+    "item": "betterinventory:raw_core",
+    "count": 9
+  }
+}

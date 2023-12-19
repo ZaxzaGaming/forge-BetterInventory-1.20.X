@@ -1,0 +1,20 @@
+{
+  "item.betterinventory.inventory_core": "Inventory Core",
+  "item.betterinventory.raw_core": "Raw Core",
+
+  "block.betterinventory.core_block": "Core Block",
+  "block.betterinventory.raw_core_block": "Block of Raw Core",
+
+  "block.betterinventory.core_ore" : "Core Ore",
+  "block.betterinventory.deepslate_core_ore" : "Deepslate Core Ore",
+  "block.betterinventory.nether_core_ore" : "Nether Core Ore",
+  "block.betterinventory.end_stone_core_ore" : "Endstone Core Ore",
+
+  "block.betterinventory.sound_block" : "Sound Block",
+
+  "block.betterinventory.strawberry" : "Strawberry",
+
+  "block.betterinventory.pine_cone" : "Pine Cone",
+
+  "creativetab.better_inventory_tab": "Better Inventory Tab"
+}

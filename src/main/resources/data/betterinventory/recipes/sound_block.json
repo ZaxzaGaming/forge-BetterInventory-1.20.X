@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "wool"
+    },
+    "S": {
+      "item": "betterinventory:inventory_core"
+    }
+  },
+  "result": {
+    "item": "betterinventory:sound_block"
+  }
+}

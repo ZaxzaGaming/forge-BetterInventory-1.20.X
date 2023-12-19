@@ -1,0 +1,10 @@
+{
+  "values": [
+    "betterinventory:core_block",
+    "betterinventory:raw_core_block",
+    "betterinventory:core_ore",
+    "betterinventory:deepslate_core_ore",
+    "betterinventory:nether_core_ore",
+    "betterinventory:end_stone_core_ore"
+  ]
+}

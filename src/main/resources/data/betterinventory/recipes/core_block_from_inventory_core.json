@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "betterinventory:inventory_core"
+    }
+  },
+  "result": {
+    "item": "betterinventory:core_block"
+  }
+}
