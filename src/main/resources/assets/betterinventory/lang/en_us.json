@@ -1,6 +1,7 @@
 {
   "item.betterinventory.inventory_core": "Inventory Core",
   "item.betterinventory.raw_core": "Raw Core",
+  "item.betterinventory.metal_detector": "Metal Detector",
 
   "block.betterinventory.core_block": "Core Block",
   "block.betterinventory.raw_core_block": "Block of Raw Core",
@@ -15,6 +16,9 @@
   "block.betterinventory.strawberry" : "Strawberry",
 
   "block.betterinventory.pine_cone" : "Pine Cone",
+
+  "tooltip.betterinventory.metal_detector.tooltip": "Finds valuables underground.",
+  "tooltip.betterinventory.sound_block.tooltip": "Plays a note when interacted with right hand.",
 
   "creativetab.better_inventory_tab": "Better Inventory Tab"
 }

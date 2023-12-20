@@ -39,7 +39,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> NETHER_CORE_ORE = registerBlock("nether_core_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.NETHERRACK)
                     .strength(1f).requiresCorrectToolForDrops(), UniformInt.of(3,7)));
-    public static final RegistryObject<Block> END_CORE_ORE = registerBlock("end_stone_core_ore",
+    public static final RegistryObject<Block> END_STONE_CORE_ORE = registerBlock("end_stone_core_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.END_STONE)
                     .strength(4f).requiresCorrectToolForDrops(), UniformInt.of(3,8)));
 

@@ -51,8 +51,7 @@ public class BetterInventory
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
         if(event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES){
-            event.accept(ModItems.INVENTORY_CORE);
-            event.accept(ModItems.RAW_CORE);
+            event.accept(ModItems.METAL_DETECTOR);
         }
         if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS){
             event.accept(ModItems.STRAWBERRY);

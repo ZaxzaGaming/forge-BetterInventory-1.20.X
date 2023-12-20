@@ -29,7 +29,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.CORE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_CORE_ORE.get());
                         pOutput.accept(ModBlocks.NETHER_CORE_ORE.get());
-                        pOutput.accept(ModBlocks.END_CORE_ORE.get());
+                        pOutput.accept(ModBlocks.END_STONE_CORE_ORE.get());
 
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
                     })
